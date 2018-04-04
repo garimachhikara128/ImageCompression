@@ -1,4 +1,4 @@
-# import the libraries
+ import the libraries
 import cv2
 import sys
 import numpy
@@ -17,5 +17,3 @@ cv2.imwrite('encoded.png', encoded_image)
 decoded_image = cv2.imdecode(encoded_image, 1)
 
 cv2.imwrite('decoded.jpg', decoded_image)
-
-
