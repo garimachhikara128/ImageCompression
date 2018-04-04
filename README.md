@@ -1,2 +1,2 @@
 # ImageCompression
-JPEG Compression using FFMPEG Library
+Library for Image Compression
