@@ -33,3 +33,4 @@ for file in dirs:
     # writing the decoded file
     decoded_filename = decoded_path + only_file_name + '_decoded.jpg'
     cv2.imwrite(decoded_filename, decoded_image)
+
