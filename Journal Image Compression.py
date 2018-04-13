@@ -6,9 +6,9 @@ import os
 import time
 
 # specify the path of folder
-path = 'E:/Capstone Project/New Video For Journal/Original/Threshold 10/'
-encoded_path = 'E:/Capstone Project/New Video For Journal/Encoded/Threshold 10/'
-decoded_path = 'E:/Capstone Project/New Video For Journal/Decoded/Threshold 10/'
+path = 'E:/Capstone Project/New Video For Journal Zip/original/'
+encoded_path = 'F:/Capstone Project/3_New Video For Journal Only JPEG/Encoded/'
+decoded_path = 'F:/Capstone Project/3_New Video For Journal Only JPEG/Decoded/'
 
 dirs = os.listdir(path)
 
